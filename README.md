@@ -5,6 +5,13 @@ A curated list of papers and resources for scene text detection and recognition
 
 The year when a paper was first published, including ArXiv publications, is used. As a result, there may be cases when a paper was accepted for example to CVPR 2019, but it is listed in year 2018 because it was published in 2018 on ArXiv.
 
+| Table of contents |
+|------------------------------|
+| 1. [Scene Text Detection](#scene-text-detection-including-methods-for-end-to-end-detection-and-recognition) |
+| 2. [Weakly Supervised Scene Text Detection](#weakly-supervised-scene-text-detection--recognition) |
+| 3. [Scene Text Recognition](#scene-text-recognition) |
+| 4. [Other scene text papers](#other-scene-text-related-papers) |
+
 ## Scene Text Detection (including methods for end-to-end detection and recognition)
 
 ### 2010
