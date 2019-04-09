@@ -40,40 +40,66 @@ The year when a paper was first published, including ArXiv publications, is used
 - Multi-Oriented Text Detection With Fully Convolutional Networks [CVPR 2016] [[paper](https://arxiv.org/abs/1604.04018)]
 - Scene Text Detection Via Holistic, Multi-Channel Prediction [ArXiv] [[paper](https://arxiv.org/abs/1606.09002)]
 - Detecting Text in Natural Image with Connectionist Text Proposal Network [ECCV 2016] [[paper](https://arxiv.org/abs/1609.03605)]
+  - https://github.com/tianzhi0549/CTPN [Caffe]
+  - https://github.com/eragonruan/text-detection-ctpn [TF]
+  - https://github.com/Li-Ming-Fan/OCR-DETECTION-CTPN [TF]
 - TextBoxes: A Fast Text Detector with a Single Deep Neural Network [AAAI 2017] [[paper](https://arxiv.org/abs/1611.06779)]
+  - https://github.com/MhLiao/TextBoxes [Caffe]
+  - https://github.com/shinjayne/shinTB [TF]
 
 ### 2017
 - Multi-scale FCN with Cascaded Instance Aware Segmentation for Arbitrary Oriented Word Spotting In The Wild [CVPR 2017] [[paper](https://ieeexplore.ieee.org/document/8099541)]
 - Deep TextSpotter: An End-To-End Trainable Scene Text Localization and Recognition Framework [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)]
 - Arbitrary-Oriented Scene Text Detection via Rotation Proposals [TMM 2018] [[paper](https://arxiv.org/abs/1703.01086)]
+  - https://github.com/mjq11302010044/RRPN [Caffe]
 - Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [CVPR 2017] [[paper](https://arxiv.org/abs/1703.01425)]
 - Detecting Oriented Text in Natural Images by Linking Segments [CVPR 2017] [[paper](https://arxiv.org/abs/1703.06520)]
+  - https://github.com/bgshih/seglink [TF]
+  - https://github.com/dengdan/seglink [TF]
 - Deep Direct Regression for Multi-Oriented Scene Text Detection [ICCV 2017] [[paper](https://arxiv.org/abs/1703.08289)]
 - Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [ArXiv] [[paper](https://arxiv.org/abs/1704.00834)]
 - EAST: An Efficient and Accurate Scene Text Detector [CVPR 2017] [[paper](https://arxiv.org/abs/1704.03155)]
+  - https://github.com/argman/EAST [TF]
+  - https://github.com/kurapan/EAST [Keras]
 - WordFence: Text Detection in Natural Images with Border Awareness [ICIP 2017] [[paper](https://arxiv.org/abs/1705.05483)]
 - R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [ArXiv] [[paper](https://arxiv.org/abs/1706.09579)]
+  - https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow [TF]
+  - https://github.com/beacandler/R2CNN [Caffe]
 - WordSup: Exploiting Word Annotations for Character based Text Detection [ICCV 2017] [[paper](https://arxiv.org/abs/1708.06720)]
 - Single Shot Text Detector With Regional Attention [ICCV 2017] [[paper](https://arxiv.org/abs/1709.00138)]
+  - https://github.com/BestSonny/SSTD [Caffe]
+  - https://github.com/HotaekHan/SSTDNet [PyTorch]
 - Fused Text Segmentation Networks for Multi-oriented Scene Text Detection [ArXiv] [[paper](https://arxiv.org/abs/1709.03272)]
 - Deep Residual Text Detection Network for Scene Text [ICDAR 2017] [[paper](https://arxiv.org/abs/1711.04147)]
 - Feature Enhancement Network: A Refined Scene Text Detector [AAAI 2018] [[paper](https://arxiv.org/abs/1711.04249)]
 - ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene [ArXiv] [[paper](https://arxiv.org/abs/1711.11249)]
 - Self-organized Text Detection with Minimal Post-processing via Border Learning [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)]
+  - https://gitlab.com/rex-yue-wu/ISI-PPT-Text-Detector [Keras]
 
 ### 2018
 - PixelLink: Detecting Scene Text via Instance Segmentation [AAAI 2018] [[paper](https://arxiv.org/abs/1801.01315)]
+  - https://github.com/ZJULearning/pixel_link [TF]
+  - https://github.com/BowieHsu/tensorflow_ocr [TF]
 - FOTS: Fast Oriented Text Spotting With a Unified Network [CVPR 2018] [[paper](https://arxiv.org/abs/1801.01671)]
 - TextBoxes++: A Single-Shot Oriented Scene Text Detector [TIP 2018] [[paper](https://arxiv.org/abs/1801.02765)]
+  - https://github.com/MhLiao/TextBoxes_plusplus [Caffe]
 - Multi-oriented Scene Text Detection via Corner Localization and Region Segmentation [CVPR 2018] [[paper](https://arxiv.org/abs/1802.08948)]
 - An end-to-end TextSpotter with Explicit Alignment and Attention [CVPR 2018] [[paper](https://arxiv.org/abs/1803.03474)]
+  - https://github.com/tonghe90/textspotter [Caffe]
 - Rotation-Sensitive Regression for Oriented Scene Text Detection [CVPR 2018] [[paper](https://arxiv.org/abs/1803.05265)]
+  - https://github.com/MhLiao/RRD [Caffe]
 - Detecting multi-oriented text with corner-based region proposals [Neurocomputing 2019] [[paper](https://arxiv.org/abs/1804.02690)]
+  - https://github.com/xhzdeng/crpn [Caffe]
 - An Anchor-Free Region Proposal Network for Faster R-CNN based Text Detection Approaches [ArXiv] [[paper](https://arxiv.org/abs/1804.09003)]
 - IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [IJCAI 2018] [[paper](https://arxiv.org/abs/1805.01167)]
+  - https://github.com/xieyufei1993/InceptText-Tensorflow [TF]
 - Shape Robust Text Detection with Progressive Scale Expansion Network [CVPR 2019] [[paper](https://arxiv.org/abs/1806.02559)] [[paper v2](https://arxiv.org/abs/1903.12473)]
+  - https://github.com/whai362/PSENet [PyTorch]
+  - https://github.com/liuheng92/tensorflow_PSENet [TF]
 - TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [ECCV 2018] [[paper](https://arxiv.org/abs/1807.01544)]
+  - https://github.com/princewang1994/TextSnake.pytorch [PyTorch]
 - Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [ECCV 2018] [[paper](https://arxiv.org/abs/1807.02242)]
+  - https://github.com/lvpengyuan/masktextspotter.caffe2 [Caffe2]
 - Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [ECCV 2018] [[paper](https://arxiv.org/abs/1807.03547)]
 - A New Anchor-Labeling Method For Oriented Text Detection Using Dense Detection Framework [SPL 2018] [[paper](https://ieeexplore.ieee.org/iel7/97/4358004/08403317.pdf)]
 - An Efficient System for Hazy Scene Text Detection using a Deep CNN and Patch-NMS [ICPR 2018] [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545198&tag=1)]
@@ -82,6 +108,7 @@ The year when a paper was first published, including ArXiv publications, is used
 
 ### 2019
 - MSR: Multi-Scale Shape Regression for Scene Text Detection [ArXiv] [[paper](https://arxiv.org/abs/1901.02596)]
+- Curve Text Detection with Local Segmentation Network and Curve Connection [ArXiv] [[paper](https://arxiv.org/abs/1903.09837)]
 
 ## Weakly supervised Scene Text Detection & Recognition
 
@@ -89,6 +116,7 @@ The year when a paper was first published, including ArXiv publications, is used
 - Attention-Based Extraction of Structured Information from Street View Imagery [ICDAR 2017] [[paper](https://arxiv.org/abs/1704.03549)]
 - WeText: Scene Text Detection under Weak Supervision [ICCV 2017] [[paper](https://arxiv.org/abs/1710.04826)]
 - SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [AAAI 2018] [[paper](https://arxiv.org/abs/1712.05404)]
+  - https://github.com/Bartzi/see [Chainer]
 
 ## Scene Text Recognition
 
@@ -98,10 +126,10 @@ The year when a paper was first published, including ArXiv publications, is used
 
 ### 2019
 - Scene Text Synthesis for Efficient and Effective Deep Network Training [ArXiv] [[paper](http://arxiv.org/abs/1901.09193)]
-- Curve Text Detection with Local Segmentation Network and Curve Connection [ArXiv] [[paper](https://arxiv.org/abs/1903.09837)]
 
 ## Scene text survey
 ### 2018
+- Scene Text Detection and Recognition: The Deep Learning Era [ArXiv] [[paper](https://arxiv.org/abs/1811.04256)]
 
 ### 2019
 - Scene text detection and recognition with advances in deep learning: a survey [IJDAR 2019] [[paper](https://link.springer.com/article/10.1007%2Fs10032-019-00320-5)]
