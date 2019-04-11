@@ -120,6 +120,40 @@ The year when a paper was first published, including ArXiv publications, is used
 
 ## Scene Text Recognition
 
+### 2014
+- Deep Structured Output Learning for Unconstrained Text Recognition [ICLR 2015] [[paper](https://arxiv.org/abs/1412.5903)]
+- Reading text in the wild with convolutional neural networks [IJCV 2016] [[paper](https://arxiv.org/abs/1412.1842)]
+
+### 2015
+- Reading Scene Text in Deep Convolutional Sequences [AAAI 2016] [[paper](https://arxiv.org/abs/1506.04395)]
+- An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition [TPAMI 2017] [[paper](https://arxiv.org/abs/1507.05717)]
+
+### 2016
+- Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [CVPR 2016] [[paper](https://arxiv.org/abs/1603.03101)]
+- Robust scene text recognition with automatic rectification [CVPR 2016] [[paper](https://arxiv.org/abs/1603.03915)]
+- CNN-N-Gram for Handwriting Word Recognition [CVPR 2016] [[paper](https://ieeexplore.ieee.org/document/7780622)]
+- STAR-Net: A SpaTial Attention Residue Network for Scene Text Recognition [BMVC 2016] [[paper](http://www.bmva.org/bmvc/2016/papers/paper043/paper043.pdf)]
+
+### 2017
+- STN-OCR: A single Neural Network for Text Detection and Text Recognition [ArXiv] [[paper](https://arxiv.org/pdf/1707.08831.pdf)]
+- Learning to Read Irregular Text with Attention Mechanisms [IJCAI 2017] [[paper](https://www.ijcai.org/proceedings/2017/458)]
+- Scene Text Recognition with Sliding Convolutional Character Models [ArXiv] [[paper](https://arxiv.org/abs/1709.01727)]
+- Focusing Attention: Towards Accurate Text Recognition in Natural Images [ICCV 2017] [[paper](https://arxiv.org/abs/1709.02054)]
+- AON: Towards Arbitrarily-Oriented Text Recognition [CVPR 2018] [[paper](https://arxiv.org/abs/1711.04226)]
+- Gated Recurrent Convolution Neural Network for OCR [NIPS 2017] [[paper](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)]
+
+### 2018
+- Char-Net: A Character-Aware Neural Network for Distorted Scene Text Recognition [AAAI 2018] [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16327/16307)]
+- SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network [AAAI 2018] [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16354)]
+- Edit Probability for Scene Text Recognition [CVPR 2018] [[paper](https://arxiv.org/abs/1805.03384)]
+- ASTER: An Attentional Scene Text Recognizer with Flexible Rectification [TPAMI 2018] [[paper](https://ieeexplore.ieee.org/document/8395027/)]
+- Synthetically Supervised Feature Learning for Scene Text Recognition [ECCV 2018] [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)]
+- Scene Text Recognition from Two-Dimensional Perspective [AAAI 2019] [[paper](https://arxiv.org/abs/1809.06508)]
+
+### 2019
+- A Multi-Object Rectified Attention Network for Scene Text Recognition [Pattern Recognition] [[paper](https://arxiv.org/abs/1901.03003)
+- A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition [[paper](https://arxiv.org/abs/1904.01375)]
+
 ## Other scene text related papers
 ### 2016
 - Synthetic Data for Text Localisation in Natural Images [CVPR 2016] [[paper](https://arxiv.org/abs/1604.06646)]
