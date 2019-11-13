@@ -107,19 +107,26 @@ The year when a paper was first published, including ArXiv publications, is used
 - Pixel-Anchor: A Fast Oriented Scene Text Detector with Combined Networks [ArXiv] [[paper](https://arxiv.org/abs/1811.07432)]
 - Mask R-CNN with Pyramid Attention Network for Scene Text Detection [WACV 2019] [[paper](https://arxiv.org/abs/1811.09058)]
 - TextMountain: Accurate Scene Text Detection via Instance Segmentation [ArXiv] [[paper](https://arxiv.org/abs/1811.12786)]
+- TextField: Learning A Deep Direction Field for Irregular Scene Text Detection [ArXiv] [[paper](https://arxiv.org/abs/1812.01393)]
+- TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network [ACCV 2018] [[paper](https://arxiv.org/abs/1812.09900)]
 
 ### 2019
-- MSR: Multi-Scale Shape Regression for Scene Text Detection [ArXiv] [[paper](https://arxiv.org/abs/1901.02596)]
+- MSR: Multi-Scale Shape Regression for Scene Text Detection [IJCAI 2019] [[paper](https://arxiv.org/abs/1901.02596)]
 - Scene Text Detection with Inception Text Proposal Generation Module [ICMLC 2019] [[paper](https://www.researchgate.net/publication/333161163_Scene_Text_Detection_with_Inception_Text_Proposal_Generation_Module)]
 - Towards Robust Curve Text Detection with Conditional Spatial Expansion [CVPR 2019] [[paper](https://arxiv.org/abs/1903.08836)]
 - Curve Text Detection with Local Segmentation Network and Curve Connection [ArXiv] [[paper](https://arxiv.org/abs/1903.09837)]
 - Pyramid Mask Text Detector [ArXiv] [[paper](https://arxiv.org/abs/1903.11800)]
 - Tightness-aware Evaluation Protocol for Scene Text Detection [CVPR 2019] [[paper](https://arxiv.org/abs/1904.00813)]
 - Character Region Awareness for Text Detection [CVPR 2019] [[paper](https://arxiv.org/abs/1904.01941)]
+- Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes [CVPR 2019] [[paper](https://arxiv.org/abs/1904.06535)]
 - TextCohesion: Detecting Text for Arbitrary Shapes [ArXiv] [[paper](https://arxiv.org/abs/1904.12640)]
 - Arbitrary Shape Scene Text Detection With Adaptive Text Region Representation [CVPR 2019] [[paper](https://arxiv.org/abs/1905.05980)]
 - Learning Shape-Aware Embedding for Scene Text Detection [CVPR 2019] [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.pdf)]
-
+- A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning [ACMMM 2019] [[paper](https://arxiv.org/abs/1908.05498)]
+- Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network [ICCV 2019] [[paper](https://arxiv.org/abs/1908.05900)]
+- Towards Unconstrained End-to-End Text Spotting [ICCV 2019] [[paper](https://arxiv.org/abs/1908.09231)]
+- TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf)]
+- Convolutional Character Networks [ICCV 2019] [[paper](https://arxiv.org/abs/1910.07954)]
 
 ## Weakly supervised Scene Text Detection & Recognition
 
@@ -174,11 +181,25 @@ The year when a paper was first published, including ArXiv publications, is used
   - https://github.com/bgshih/aster [TF]
 - Synthetically Supervised Feature Learning for Scene Text Recognition [ECCV 2018] [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)]
 - Scene Text Recognition from Two-Dimensional Perspective [AAAI 2019] [[paper](https://arxiv.org/abs/1809.06508)]
+- ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification [CVPR 2019] [[paper](https://arxiv.org/abs/1812.05824)]
 
 ### 2019
 - A Multi-Object Rectified Attention Network for Scene Text Recognition [Pattern Recognition] [[paper](https://arxiv.org/abs/1901.03003)]
   - https://github.com/Canjie-Luo/MORAN_v2 [PyTorch]
 - A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition [[paper](https://arxiv.org/abs/1904.01375)]
+- Aggregation Cross-Entropy for Sequence Recognition [CVPR 2019][[paper](https://arxiv.org/abs/1904.08364)]
+  - https://github.com/summerlvsong/Aggregation-Cross-Entropy [PyTorch]
+- Sequence-to-Sequence Domain Adaptation Network for Robust Text Image Recognition [CVPR 2019][[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)]
+- 2D Attentional Irregular Scene Text Recognizer [ArXiv] [[paper](https://arxiv.org/abs/1906.05708)]
+- Deep Neural Network for Semantic-based Text Recognition in Images [ArXiv] [[paper](https://arxiv.org/abs/1908.01403)]
+- Symmetry-constrained Rectification Network for Scene Text Recognition [ICCV 2019] [[paper](https://arxiv.org/abs/1908.01957)]
+- Rethinking Irregular Scene Text Recognition (ICDAR 2019-ArT) [[paper](https://arxiv.org/abs/1908.11834)]
+  - https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy [PyTorch]
+- Focus-Enhanced Scene Text Recognition with Deformable Convolutions [ArXiv] [[paper](https://arxiv.org/abs/1908.10998)]
+  - https://github.com/Alpaca07/dtr [PyTorch]
+- Adaptive Embedding Gate for Attention-Based Scene Text Recognition [ArXiv] [[paper](https://arxiv.org/abs/1908.09475)]
+
+## Script Identification
 
 ## Other scene text related papers
 ### 2016
