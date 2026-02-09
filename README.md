@@ -62,7 +62,7 @@
   - **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages [[code](https://github.com/PaddlePaddle/PaddleOCR)]
   - **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) [[code](https://github.com/JaidedAI/EasyOCR)]
   - **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms [[code](https://github.com/open-mmlab/mmocr)]
-  - **OpenOCR** - Unified benchmark system for training and evaluating scene text models [[code]https://github.com/Topdu/OpenOCR)]
+  - **OpenOCR** - Unified benchmark system for training and evaluating scene text models [[code](https://github.com/Topdu/OpenOCR)]
 
   ### Comparison
   For detailed comparisons of these tools, see:
@@ -97,7 +97,7 @@
 
   **Horizontal/Multi-Oriented Text:**
   - **COCO-Text** - 63,686 images (43,686 train, 20,000 test), 145,859 text instances, multilingual [[paper](https://arxiv.org/abs/1601.07140)] [[download](https://bgshih.github.io/cocotext/)]
-  - **MSRA-TD500** - 500 images (300 train, 200 test), English/Chinese, text-line level [[download]https://huggingface.co/datasets/yunusserhat/MSRA-TD500-Dataset)]
+  - **MSRA-TD500** - 500 images (300 train, 200 test), English/Chinese, text-line level [[download](https://huggingface.co/datasets/yunusserhat/MSRA-TD500-Dataset)]
   - **SVT (Street View Text)** - 350 images, 725 text instances [[download](http://www.iapr-tc11.org/mediawiki/index.php/The_Street_View_Text_Dataset)]
   - **USTB-SV1K** - 1,000 street view images, 2,955 text instances [[download](https://github.com/onionych/USTB-SV1K)]
   - **IIIT5K** - 5,000 word images (2,000 train, 3,000 test), 50-word and 1,000-word lexicons [[download](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)]
@@ -156,6 +156,11 @@
   - **The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection** [IJCAI 2025] [[paper](https://arxiv.org/abs/2505.15649)] [[code](https://github.com/pd162/LTB)]
   - **Scene Text Detection and Recognition "in light of" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras** [arXiv 2025] [[paper](https://arxiv.org/abs/2507.16330)] [[code](https://github.com/josepDe/Project_Aria_STR)]
   - **A Large-scale Dataset for Robust Complex Anime Scene Text Detection** [arXiv 2025] [[paper](https://arxiv.org/abs/2510.07951)] [[dataset](https://huggingface.co/datasets/deepghs/AnimeText)]
+  - **Masked Text Pre-Training for Scene Text Detection** [Transactions on Multimedia 2025] [[paper](https://ieeexplore.ieee.org/abstract/document/11175522)]
+  - **TextMamba: Scene Text Detector with Mamba** [arXiv 2025] [[paper](https://arxiv.org/abs/2512.06657)]
+  - **Occluded scene text detection via context-awareness from sketch-level image representations** [Multimedia Systems 2025] [[paper](https://link.springer.com/article/10.1007/s00530-025-01782-w)]
+  - **ContraText-DETR: Boosting Industrial Scene Text Detection Based on Contrastive Learning and Synthetic Low-Contrast Text** [Sensors Journal 2025] [[paper](https://ieeexplore.ieee.org/abstract/document/11062481)]
+
 
   ### 2024
   - **Explicit Relational Reasoning Network for Scene Text Detection** [AAAI 2025] [[paper](https://arxiv.org/abs/2412.14692)]
@@ -169,6 +174,8 @@
   - **Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis** [CVPR 2024] [[paper](https://arxiv.org/abs/2405.07481)]
   - **ACP-Net: Asymmetric Center Positioning Network for Real-Time Text Detection** [Knowledge-Based Systems 2024] [[paper](papers.ssrn.com/sol3/papers.cfm?abstract_id=4855396)]
   - **GridMask: An Efficient Scheme for Real Time Curved Scene Text Detection** [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_11)]
+  - **TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model** [Transactions on Multimedia Computing, Communications and Applications 2025] [[paper](https://arxiv.org/abs/2403.10047)]
+  - **SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting** [IJCV 2025] [[paper](https://arxiv.org/abs/2401.07641)] [[code](https://github.com/mxin262/SwinTextSpotterv2)]
 
   ### 2023
   - **LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network** [AAAI 2024] [[paper](https://arxiv.org/abs/2306.15142)] [[code](https://github.com/ychensu/LRANet)]
